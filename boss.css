@@ -1,0 +1,14 @@
+body{
+  background-color: aqua;
+}
+
+h2{
+  font-size: 18px;
+  font-weight: 500;
+  color: palevioletred;
+  text-align: center;
+}
+
+.head-wrapper{
+  font-weight: 100;
+}
